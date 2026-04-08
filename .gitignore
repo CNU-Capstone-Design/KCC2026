@@ -1,0 +1,26 @@
+# Model weights (large binary files — download separately, see README)
+checkpoints/
+pretrained/
+*.pth
+*.pkl
+*.pt
+
+# StyleGAN2-ADA repo
+stylegan2-ada-pytorch/
+
+# BiSeNet face parser repo
+face-parsing.PyTorch/
+
+# Data
+data/
+eval_results/
+results/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
